@@ -2,13 +2,13 @@
 
 | Year | Brand | Model | Module Part Number | Function | Part | Price |
 |------|-------|-------|--------------------|----------|------|-------|
-| 2011 | Chevrolet | HHR | 23235227 (2011) |  |  | price |
-|||||Female to Male Cable (2010 & Under) | 23242476  | price |
-|||||UHF Adapter Cable (2010 & Under)    | 23242478 | price |
-| 2014 | Chevrolet | Cruze | 23230538 |   |  | price |
-|||||Splitter|23242479| price |
-|||||Male to Male Universal | 23242477 | price ||
-|||||Male to Male Universal | 23242477 | price |
+| 2011 | Chevrolet | HHR | 23235227 (2011) |  |  | $392.62 (GMD)<br> (C) |
+|||||Female to Male Cable (2010 & Under) | 23242476 | $7.78 (GMD)<br> (C) |
+|||||UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br> (C) |
+| 2014 | Chevrolet | Cruze | 23230538 |   |  | $267.93 (GMD)<br> (C) |
+|||||Splitter| 23242479| NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br> (C) |
+|||||Male to Male Universal | 23242477 | NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br> (C) ||
+|||||Male to Male Universal | 23242477 | NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br> (C) |
 
 | Source | Legend | Website |
 |--------|--------|---------|
