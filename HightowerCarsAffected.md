@@ -21,3 +21,11 @@
 | Bulletin No.: 15-08-44-001<br> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf](https://static.nhtsa.gov/odi/tsbs/2019/MC-10166666-9999.pdf) |
 | File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
 
+## 2011 Chevrolet HHR Sunroof Repair 
+This frame is needed because the driver side pivot hold down is broken. When the sunroof is retracted, the slide arm that is supposed lower the wind baffle springs up, requiring two people to close the sunroof: 
+1. one person is needed outside to hold the arm down for the window
+2. the other person is needed inside to push the button to close the sunroof. 
+
+| Parts Description | Part Number | Price |
+|-------------------|-------------|-------|
+| GM Genuine Parts Sunroof Frame | 25967123 | Chevrolet:<br>MSRP: $456.81<br>--------------------------------------------------<br> GM Parts Direct:<br> MSRP:	$456.81<br>Discount:	$159.42 (34.90% off)<br>Sale Price:	$297.39 |
