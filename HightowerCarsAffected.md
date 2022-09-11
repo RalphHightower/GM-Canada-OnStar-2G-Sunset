@@ -1,9 +1,14 @@
 # Hightower Affected Cars
 
-| Year | Brand | Model | Parts | Price |
-|------|-------|-------|-------|-------|
-| 2011 | Chevrolet | HHR |  |  |
-| 2014 | Chevrolet | Cruze |  | |
+| Year | Brand | Model | Module Part Number | Function | Part | Price |
+|------|-------|-------|--------------------|----------|------|-------|
+| 2011 | Chevrolet | HHR | 23235227 (2011) |  |  | price |
+|||||Female to Male Cable (2010 & Under) | 23242476  | price |
+|||||UHF Adapter Cable (2010 & Under)    | 23242478 | price |
+| 2014 | Chevrolet | Cruze | 23230538 |   |  | price |
+|||||Splitter|23242479| price |
+|||||Male to Male Universal | 23242477 | price ||
+|||||Male to Male Universal | 23242477 | price |
 
 | Source | Legend | Website |
 |--------|--------|---------|
