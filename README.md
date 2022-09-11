@@ -4,5 +4,5 @@ Canada sunseted cellular G2 in 2015. GM Canada figured out how to retain OnStar 
 # Service Bulletin 15-08-44-001J (GM Canada 🇨🇦 🍁)
 | GM Canada Service Bulletins | Offline | Online |
 |-----------------------------|---------|--------|
-|  |  |  |
-|  |  |  |
+| Bulletin No.: 15-08-44-001<br> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf]() |
+| File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf]() |
