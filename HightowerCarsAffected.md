@@ -12,8 +12,8 @@
 
 | Source | Legend | Website |
 |--------|--------|---------|
-| Chevrolet | (C) |  |
-| GM Parts Direct | (GMD) |
+| Chevrolet | (C) | https://parts.chevrolet.com/ |
+| GM Parts Direct | (GMD) | https://www.gmpartsdirect.com/ |
 
 ## Service Bulletin 15-08-44-001J (GM Canada 🇨🇦 🍁)
 | GM Canada Service Bulletins | Offline<br> (this repository on GitHub) | [National Highway Traffic Safety Administration (USA gov  🇺🇸)](https://www.nhtsa.gov) |
