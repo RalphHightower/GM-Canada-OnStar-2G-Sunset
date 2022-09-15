@@ -38,6 +38,7 @@ This frame is needed because the driver side pivot hold down is broken. When the
 | GM Genuine Parts Sunroof Frame | 25967123 | Chevrolet:<br>MSRP: $456.81<br>--------------------------------------------------<br> GM Parts Direct:<br> MSRP:	$456.81<br>Discount:	$159.42 (34.90% off)<br>Sale Price:	$297.39 |
 
 ### 2011 Chevrolet HHR 2.4L I-4 Enable Remote Start?
+
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
 | Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
