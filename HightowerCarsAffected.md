@@ -1,6 +1,8 @@
 # Cellular CDMA G2 Sunset - GM-Canada Solution to Retain OnStar Functionality in Affected Vehicles 
 
-Canada sunseted cellular G2 CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. Documents retrieved from NHTSA (US) https://nhtsa.gov.
+Canada sunseted cellular G2 CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. A dongle that plugs into the ODB-II port is unacceptable to me.
+
+Documents retrieved from NHTSA (US) https://nhtsa.gov.
 
 ## Hightower Affected Cars
 
