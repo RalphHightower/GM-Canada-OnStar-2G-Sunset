@@ -1,4 +1,4 @@
-# Cellular CDMA G2 Sunset - GM-Canada Solution to Retain OnStar Functionality in Affected Vehicles 
+# Hightower Cars OnStar Functionality Impacted by US Cellular CDMA G2 Sunset 
 
 Canada sunseted cellular G2 CDMA technology in 2015. GM Canada 🇨🇦 figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA 🇺🇸 solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
@@ -11,10 +11,10 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov).
 | 2011 | Chevrolet | HHR | 23235227 (2011) |  |  | $392.62 (GMD)<br>No Results (C) |
 |||||Female to Male Cable (2010 & Under) | 23242476 | $7.78 (GMD)<br>No Results (C) |
 |||||UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br>No Results (C) |
-| 2014 | Chevrolet | Cruze | 23230538 |   |  | $267.93 (GMD)<br>No Results (C) |
-|||||Splitter| 23242479| NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br>No Results (C) |
-|||||Male to Male Universal | 23242477 | NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br>No Results (C) ||
-|||||Male to Male Universal | 23242477 | NOT FOR SALE<br>No Longer Available For Purchase (GMD)<br>No Results (C) |
+| ~~2014~~ | ~~Chevrolet~~ | ~~Cruze~~[^1] | ~~23230538~~ |   |  | ~~$267.93 (GMD)<br>No Results (C)~~ |
+|||||~~Splitter~~| ~~23242479~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ |
+|||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ ||
+|||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ |
 
 | Source | Legend | Website |
 |--------|--------|---------|
@@ -44,3 +44,5 @@ This frame is needed because the driver side pivot hold down is broken. When the
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
 | Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
+
+[^1]: 2014 Chevrolet Cruz will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
