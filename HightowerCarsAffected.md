@@ -1,4 +1,4 @@
-# Hightower Cars OnStar Functionality Impacted by US Cellular CDMA G2 Sunset 
+# Hightower Cars OnStar Functionality Impacted by US Cellular CDMA 2G Sunset 
 
 Canada sunseted cellular 2G CDMA technology in 2015. GM Canada 🇨🇦 figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA 🇺🇸 solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
