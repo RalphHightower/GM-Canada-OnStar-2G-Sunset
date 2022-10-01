@@ -2,6 +2,12 @@ title: Ralph Hightower - GM Canada Solution to Retain OnStar Functionality with 
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
+  #street_address:
+  city: Chapin
+  state: SC
+  zip_code: 29036
+  country: United States of America
+  #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
   Canada sunseted cellular CDMA 2G technology in 2015. GM Canada figureout how to retain 
   OnStar functionality in affected vehicles without using a dongle like GM USA. Documents 
