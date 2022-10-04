@@ -1,8 +1,8 @@
 # Hightower Cars OnStar Functionality Impacted by US Cellular CDMA 2G Sunset 
 
-Canada sunseted cellular 2G CDMA technology in 2015. GM Canada 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
+Canada sunseted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.ca/) 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is [GM USA](https://www.gm.com/) 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
-Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov).
+Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 
 ## Hightower Affected Cars
 
@@ -21,9 +21,9 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov).
 | Chevrolet | (C) | [https://parts.chevrolet.com/](https://parts.chevrolet.com/) |
 | GM Parts Direct | (GMD) | [https://www.gmpartsdirect.com/](https://www.gmpartsdirect.com/) |
 
-### Service Bulletin 15-08-44-001J (GM Canada 🇨🇦 🍁)
+### Service Bulletin 15-08-44-001J ([GM Canada](https://www.gm.ca/) 🇨🇦 🍁)
 
-| GM Canada Service Bulletins | Offline<br> (this repository on GitHub) | [National Highway Traffic Safety Administration (USA gov 🇺🇸)](https://www.nhtsa.gov) |
+| [GM Canada](https://www.gm.ca/) Service Bulletins | Offline<br> (this repository on GitHub) | [National Highway Traffic Safety Administration (USA gov 🇺🇸)](https://www.nhtsa.gov) |
 |-----------------------------|---------|--------|
 | Bulletin No.: 15-08-44-001<br> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf](https://static.nhtsa.gov/odi/tsbs/2019/MC-10166666-9999.pdf) |
 | File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
