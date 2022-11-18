@@ -41,6 +41,8 @@ This frame is needed because the driver side pivot hold down is broken. When the
 
 ### 2011 Chevrolet HHR 2.4L I-4 Enable Remote Start?
 
+This part is for HHR's built with remote starting. I don't think that Chevrolet would have different PROMs for specific features in a car. I think that this part will tell the HHR whether the hood is open or closed, if it will autostart. I read on an HHR forum where grounding a pin in the interior fuse box will enable remote starting. 
+
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
 | Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
