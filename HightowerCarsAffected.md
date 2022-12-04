@@ -11,7 +11,7 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 | 2011 | Chevrolet | HHR | 23235227 (2011) |  |  | $392.62 (GMD)<br>No Results (C) |
 |||||Female to Male Cable (2010 & Under) | 23242476 | $7.78 (GMD)<br>No Results (C) |
 |||||UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br>No Results (C) |
-| ~~2014~~ | ~~Chevrolet~~ | ~~Cruze~~[^1] | ~~23230538~~ |   |  | ~~$267.93 (GMD)<br>No Results (C)~~ |
+| ~~2014~~ | ~~Chevrolet~~ | ~~Cruze~~[^1][^2] | ~~23230538~~ |   |  | ~~$267.93 (GMD)<br>No Results (C)~~ |
 |||||~~Splitter~~| ~~23242479~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ |
 |||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ ||
 |||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ |
@@ -47,4 +47,5 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |-------------------|-------------|-------|
 | Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
 
-[^1]: 2014 Chevrolet Cruz will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
+[^1]: 2014 Chevrolet Cruze will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
+[^2]: 2014 Chevrolet Cruze was totalled 2022-11-22. It will be replaced with a non-turbocharged car or SUV.
