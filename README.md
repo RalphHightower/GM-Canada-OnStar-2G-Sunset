@@ -10,3 +10,7 @@ Canada sunseted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.
 | File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
 
 [Hightower Cars Affected](HightowerCarsAffected.md)
+
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/actions/workflows/jekyll-gh-pages.yml)
+
+[![release-please](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/actions/workflows/release-please.yml/badge.svg)](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/actions/workflows/release-please.yml)
