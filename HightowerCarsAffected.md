@@ -1,6 +1,6 @@
 # Hightower Cars OnStar Functionality Impacted by US Cellular CDMA 2G Sunset 
 
-Canada sunseted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.ca/) 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is [GM USA](https://www.gm.com/) 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
+Canada sunsetted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.ca/) 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is [GM USA](https://www.gm.com/) 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
 Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 
@@ -29,7 +29,7 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 | File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
 
 ### 2011 Chevrolet HHR Sunroof Repair 
-The following is not related to the cellular companies in America sunseting cellular CDMA G2 technology. However, since I created this document for the OnStar 2G shutdown, this is a handy place to put it.
+The following is not related to the cellular companies in America sunsetting cellular CDMA G2 technology. However, since I created this document for the OnStar 2G shutdown, this is a handy place to put it.
 
 This frame is needed because the driver side pivot hold down is broken. When the sunroof is retracted, the slide arm that is supposed lower the wind baffle springs up, requiring two people to close the sunroof: 
 1. one person is needed outside to hold the arm down for the window
