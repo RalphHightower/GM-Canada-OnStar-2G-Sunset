@@ -83,7 +83,7 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 | 1SZ || 14I ||
 | 142 || 2LT ||
 | 6AE || 7AE ||
-| WATERBASED | U ||
+| WATERBASED || U ||
 | 706S || 142 ||
 
 [^1]: 2014 Chevrolet Cruze will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
