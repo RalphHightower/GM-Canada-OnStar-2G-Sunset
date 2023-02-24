@@ -47,6 +47,45 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |-------------------|-------------|-------|
 | Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
 
+| RPO Codes | Option | RPO Code | Option |
+|----|----|---|----|
+| PKMQHJ || 1AS46 ||
+| ADM || AJ6 ||
+| AR9 || ASF ||
+| AT8 || AXP ||
+| BVE || BZ9 ||
+| B34 || B35 ||
+| B36 || B57 ||
+| CF5 || C2Y ||
+| C67 || DD8 ||
+| DG7 || DT4 ||
+| EF7 || FCH ||
+| FE3 || FLT ||
+| FX2 || GHA ||
+| G63 || IP2 ||
+| JJD || JL4 ||
+| JM4 || KA1 ||
+| LE9 || MN5 ||
+| MX0 || NC7 ||
+| NE1 || NP5 ||
+| NU5 || NW9 ||
+| P23 || QBV ||
+| R6F || R9N ||
+| R9Z || SAL ||
+| T37 || UD0 ||
+| UE1 || UJM ||
+| UPF || UQ3 ||
+| US8 || U2K ||
+| VK3 || VN9 ||
+| VT7 || VY7 ||
+| V8D || YT5 ||
+| ZAF || ZAG ||
+| 1SZ || 14I ||
+| 142 || 2LT ||
+| 6AE || 7AE ||
+| WATERBASED | U ||
+| 706S || 142 ||
+
 [^1]: 2014 Chevrolet Cruze will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
 [^2]: 2014 Chevrolet Cruze was totalled 2022-11-22. It will be replaced with a non-turbocharged car or SUV.
 [^3]: Totalled 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
