@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/compare/v1.0.0...v1.0.1) (2023-02-24)
+
+
+### Bug Fixes
+
+* HHR RPO Code Table ([aafcaa1](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/commit/aafcaa12dec0d61e8450f3fdca91e4395d9271ac))
+
 ## 1.0.0 (2022-12-21)
 
 
