@@ -16,6 +16,10 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 |||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ ||
 |||||~~Male to Male Universal~~ | ~~23242477~~ | ~~NOT FOR SALE~~<br>~~No Longer Available For Purchase (GMD)~~<br>~~No Results (C)~~ |
 
+[^1]: 2014 Chevrolet Cruze will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
+[^2]: 2014 Chevrolet Cruze was totalled 2022-11-22. It will be replaced with a non-turbocharged car or SUV.
+[^3]: Totalled 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
+
 | Source | Legend | Website |
 |--------|--------|---------|
 | Chevrolet | (C) | [https://parts.chevrolet.com/](https://parts.chevrolet.com/) |
@@ -27,8 +31,3 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 |-----------------------------|---------|--------|
 | Bulletin No.: 15-08-44-001<br> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf](https://static.nhtsa.gov/odi/tsbs/2019/MC-10166666-9999.pdf) |
 | File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
-
-
-[^1]: 2014 Chevrolet Cruze will be sold. Cruz is on its fourth turbocharger (counting the one installed at the factory).
-[^2]: 2014 Chevrolet Cruze was totalled 2022-11-22. It will be replaced with a non-turbocharged car or SUV.
-[^3]: Totalled 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
