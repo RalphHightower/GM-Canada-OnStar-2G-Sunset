@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/compare/v1.0.1...v1.0.2) (2023-07-13)
+
+
+### Bug Fixes
+
+* formally terminate line breaks. ([33b9816](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/commit/33b9816b48fe76cdf6be29d7b5b4430701112f0d))
+
 ## [1.0.1](https://github.com/RalphHightower/GM-Canada-OnStar-2G-Sunset/compare/v1.0.0...v1.0.1) (2023-02-24)
 
 
