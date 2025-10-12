@@ -1,7 +1,7 @@
 name: stale-branches.yml – Delete Stale Branches
 
 on:
-  #workflow_dispatch:  # Manual trigger from GitHub UI
+  workflow_dispatch:  # Manual trigger from GitHub UI
   schedule:
     - cron: '0 6 * * 0'
 
@@ -12,6 +12,7 @@ jobs:
   stale_branches:
     runs-on: ubuntu-latest
     permissions:
+      contents: write
       issues: write
     steps:
       - name: Harden the runner (Audit all outbound calls)
