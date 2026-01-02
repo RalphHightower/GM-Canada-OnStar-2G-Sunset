@@ -13,6 +13,14 @@ description: > # this means to ignore newlines until "show_excerpts:"
   OnStar functionality in affected vehicles without using a dongle like GM USA. Documents 
   from NHTSA (US) nhtsa.gov.
 show_excerpts: false # set to true to show excerpts on the homepage
+
+repository: 'RalphHightower/GM-Canada-OnStar-2G-Sunset'
+url: 'https://ralphhightower.github.io'
+baseurl: "/GM-Canada-OnStar-2G-Sunset/"
+timezone: 'America/New_York'
+github_username: RalphHightower
+#google_analytics: G-TS8J63Y6Q9
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
