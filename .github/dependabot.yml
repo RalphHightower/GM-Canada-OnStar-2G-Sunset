@@ -16,4 +16,17 @@ updates:
     directory: "/"
     schedule:
       # Check for updates to GitHub Actions every weekday
-      interval: "weekly"
+      interval: "daily"
+      prefix: "[info](sec): /github-actuons/ "
+
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: daily
+      prefix: "[info](sec): /bundler/ "
+
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: daily
+      prefix: "[info](sec): /npm/ "
