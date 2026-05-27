@@ -1,58 +1,146 @@
-<!--- Please provide a general summary of your changes in the title above -->
+<!-- Provide a concise summary of your changes above the fold -->
 
-## Pull request type
+**Pull Request/Issue Number:** N/A
+<!--
+IS#9999 – Independent issue
+PR#9999 – Issue created from a PR
+-->
 
-<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed -->
+---
+# 🚨 Jekyll Pre‑Merge Verification
+- [ ] Title correct
+- [ ] Tags assigned
+- [ ] Categories assigned
+- [ ] Date correct (no accidental future dates)
+- [ ] Front matter is valid YAML
+- [ ] Liquid used only where required (stock‑quote posts)
 
-Please check the type of change your PR introduces:
+---
 
-- [ ] New blog post 
-- [ ] Bugfix
-- [ ] Jekyll change(s)
-- [ ] Liquid change(s)
-- [ ] Markdown change(s)
-- [ ] YAML change(s)
+# Pull Request Type
+Select one (one PR per change):
+
+- [ ] New blog post(s)
+- [ ] Bugfix(es)
+- [ ] Code change(s)
+- [ ] HTML / Jekyll / Liquid / Markdown change(s)
 - [ ] Build error(s)
-- [ ] Feature
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
-- [ ] Other (please describe):
+- [ ] Documentation
+- [ ] Refactor (no functional changes)
+- [ ] Security
+- [ ] Templates
+- [ ] Other (describe):
 
-## Language 
+# Reason for Change
+<!-- Why this PR exists. What triggered it? -->
 
+---
+
+# Current Behavior
+<!-- Describe or link to the issue -->
+
+---
+
+# New Behavior
+<!-- Describe what this PR adds or fixes -->
+
+---
+
+# Files Added
+1. 
+
+# Files Modified
+1. 
+
+# Files Deleted
+1. 
+
+---
+
+# Environment
+
+## Languages
+- [ ] APL
 - [ ] awk
-- [ ] C/C++/C#
+- [ ] C / C++ / C#
+- [ ] Fortran
+- [ ] HTML
+- [ ] Java
+- [ ] Javascript
+- [ ] Jekyll
+- [ ] Liquid
+- [ ] Markdown
 - [ ] Ruby
-- [ ] Python 
+- [ ] SNOBOL
+- [ ] YAML
+- [ ] Other:
 
-## Files added
+## Operating Systems
+- [ ] Android
+- [ ] Linux
+- [ ] Unix
+- [ ] Solaris
+- [ ] Windows
 
-- 
+## Hardware
+<details>
+<summary>Expand hardware list</summary>
 
-## Files modified 
+- [ ] ARM
+- [ ] DEC PDP‑8
+- [ ] DEC PDP‑11
+- [ ] DEC VAX
+- [ ] DEC VAXStation
+- [ ] IBM 
+- [ ] IBM System/360
+- [ ] IBM System/370
+- [ ] IBM System/370-XA
+- [ ] IBM ESA/370
+- [ ] IBM z/Architecture
+- [ ] Intel 8080
+- [ ] Intel Core
+- [ ] Motorola 68000
+- [ ] Raspberry Pi
+- [ ] RISC‑V
+- [ ] Sun SPARCStation
 
-- 
+</details>
 
-## Files deleted 
+---
 
-- 
+# Other Information
+<!-- Screenshots, notes, or anything relevant -->
 
-## What is the current behavior?
+---
 
-<!-- Please describe the current behavior that you are modifying, or link to a relevant issue -->
+# Clean Exit
+- [ ] Branch will be deleted after merge
+- [ ] No overlapping PRs for this repo
+- [ ] One change per branch
+<!-- Provide a concise summary of your changes above the fold -->
+<!--
+Update build status
+-->
 
-Issue Number: N/A
+# Build Status
+- [ ] Success (assign 'action – success'). This may be delayed and updated in bulk.
+- [ ] Partial Success (build succeeded, but not desired result. HTTP 404, etc.)
+- [ ] Failure (Build failed. Mark status: "action – failed'. Copy build log in comment of this PR. Create Issue  from Comment, click on '…', 'reference in new issue' with PR#{pull request number} as subject.
+- [ ] Canceled (flag PR as 'action – canceled')
 
-## What is the new behavior?
+---
 
-<!-- Please describe the behavior or changes that are being added by this PR -->
+# Branch Lifecycle
+- [ ] This branch is single‑purpose
+- [ ] No overlapping PRs for this repo
 
--
--
--
+<!-- Stale branch cleanup is automated -->
 
-## Other information
+# Scope of Change
+<!-- Multi-file fixes are allowed when they belong to the same module or anomaly. -->
 
-<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change -->
+- Number of files touched:
+- Why these files belong together:
+
+---
+
