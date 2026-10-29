@@ -3,19 +3,11 @@ name: Create Issue to Update Year In Relevant Files
 on:
   schedule:
     - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
+  #workflow_dispatch:
 
-permissions:
-  actions: none
-  checks: none
-  contents: none
-  deployments: none
-  issues: none
-  packages: none
-  pull-requests: none
-  repository-projects: none
-  security-events: none
-  statuses: none
-
+permissions: 
+  contents: read
+ 
 jobs:
   create_issue:
     name: Create issue to update copyright year
@@ -41,11 +33,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
-          TITLE: Happy New  Year – Update License Year
+          TITLE: Happy New  Year! 🎆 – 🍾 Update License Year
           ASSIGNEES: RalphHightower 
-          LABELS: documentation
+          LABELS: "maintenance"
           BODY: |
-            ### New Year's Maintenance 
+            # New Year's Maintenance 
 
             - [ ] Update LICENSE. Add new year to year's span.
 
