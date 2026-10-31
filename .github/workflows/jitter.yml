@@ -2,7 +2,7 @@ name: jitter.yml - Test GitHub Cron Jitter
 
 on:
   schedule:
-    - cron: "0,17,37,43 * 31,1 10,11 *"
+    - cron: "0,17,37,43,57 * 31,1 10,11 *"
 
 permissions:
   contents: read
