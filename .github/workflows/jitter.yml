@@ -10,16 +10,10 @@ permissions:
 jobs:
   test-cron:
     runs-on: ubuntu-latest
-
     permissions:
       issues: write
 
     steps:
-      - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@dc2769abcc0fcfbadfc1df54081c1608579ef6b2
-        with:
-          egress-policy: audit
-
       - name: Jitter Test
         run: |
           echo "$(date +'%F %T')"
