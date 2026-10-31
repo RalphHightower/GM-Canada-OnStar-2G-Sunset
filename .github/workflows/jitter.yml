@@ -1,8 +1,8 @@
-name: jitter.yml – Test GitHub Cron Jitter
+name: jitter.yml - Test GitHub Cron Jitter
 
 on:
   schedule:
-     - cron: "0,17,37,43 * 31,1 10,11 *"
+    - cron: "0,17,37,43 * 31,1 10,11 *"
 
 permissions:
   contents: read
@@ -10,15 +10,16 @@ permissions:
 jobs:
   test-cron:
     runs-on: ubuntu-latest
+
     permissions:
       issues: write
 
     steps:
       - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@dc2769abcc0fcfbadfc1df54081c1608579ef6b2 # v2.22.2
+        uses: step-security/harden-runner@dc2769abcc0fcfbadfc1df54081c1608579ef6b2
         with:
           egress-policy: audit
 
       - name: Jitter Test
         run: |
-          echo `date +'%F %T'`
+          echo "$(date +'%F %T')"
