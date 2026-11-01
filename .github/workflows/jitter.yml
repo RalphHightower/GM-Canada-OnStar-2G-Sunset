@@ -18,4 +18,6 @@ jobs:
       - name: Jitter Test
         run: |
           echo "$(date +'%F %T')"
-          echo github.event.schedule
+          echo ${{ github.event.schedule }}
+          jq . "$GITHUB_EVENT_PATH"
+
